@@ -10,8 +10,8 @@ public class Exercise02 {
         int workers = Integer.parseInt(scanner.nextLine());
         int days = Integer.parseInt(scanner.nextLine());
 
-        double totalHours = days * workers * 8;
-        double processorsProduced = Math.floor(totalHours / 3);
+        double totalHoursNeeded = days * workers * 8;
+        double processorsProduced = Math.floor(totalHoursNeeded / 3);
 
         if (processorsProduced < processorsOrdered) {
             double losses = (processorsOrdered - processorsProduced) * 110.10;
@@ -20,5 +20,6 @@ public class Exercise02 {
             double profit = (processorsProduced - processorsOrdered) * 110.10;
             System.out.printf("Profit: -> %.2f BGN", profit);
         }
+		
     }
 }

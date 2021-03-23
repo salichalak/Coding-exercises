@@ -7,7 +7,7 @@ public class Exercise01 {
         Scanner scanner = new Scanner(System.in);
 
         double averageSpeed = Double.parseDouble(scanner.nextLine());
-        double litresFor100Km = Double.parseDouble(scanner.nextLine());
+        double litresForHundredKm = Double.parseDouble(scanner.nextLine());
 
         double totalDistance = 768800;
         double timeForTravel = Math.ceil(totalDistance / averageSpeed);

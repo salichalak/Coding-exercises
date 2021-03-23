@@ -27,6 +27,7 @@ public class PassengersPerFlight {
 
                 input = scanner.nextLine();
             }
+			
             int average = totalPassengers / flightCounter;
             System.out.printf("%s: %d passengers.%n", company, average);
 
@@ -35,6 +36,7 @@ public class PassengersPerFlight {
                 flightWithMaxPassengers = company;;
             }
         }
+		
         System.out.printf("%s has most passengers per flight: %d", flightWithMaxPassengers, maxPassengers);
     }
 }
