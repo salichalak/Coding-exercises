@@ -1,4 +1,4 @@
-# SoftUni - Java Web Developer
+# SoftUni - Java
 **Content:**  
 Programming Basics with Java  
 Java Fundamentals  
@@ -9,4 +9,4 @@ Java ORM and Spring Data
 Java Spring Fundamentals  
 Java Spring Advanced  
 JavaScript Advanced  
-Javascript Applications  
+JavaScript Applications  
