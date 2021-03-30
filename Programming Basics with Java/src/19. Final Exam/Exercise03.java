@@ -10,7 +10,7 @@ public class Exercise03 {
         int hoursWasted = Integer.parseInt(scanner.nextLine());
         int peopleInGroup = Integer.parseInt(scanner.nextLine());
         String dayOrNight = scanner.nextLine();
-        double priceForHour = 0.0;
+        double priceForHour = 0;
 
         switch (month) {
             case "march":

@@ -8,9 +8,9 @@ public class Bills {
 
         double waterBill = 20;
         double internetBill = 15;
-        double otherBill = 0.0;
-        double electricityBill = 0.0;
-        double electricityTotal = 0.0;
+        double otherBill = 0;
+        double electricityBill = 0;
+        double electricityTotal = 0;
 
         int months = Integer.parseInt(scanner.nextLine());
 

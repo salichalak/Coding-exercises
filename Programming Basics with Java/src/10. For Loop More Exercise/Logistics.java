@@ -8,14 +8,14 @@ public class Logistics {
 
         int cargo = Integer.parseInt(scanner.nextLine());
 
-        double priceMiniBus = 0.0;
-        double priceTruck = 0.0;
-        double priceTrain = 0.0;
+        double priceMiniBus = 0;
+        double priceTruck = 0;
+        double priceTrain = 0;
 
-        double sumTonCargoMiniBus = 0.0;
-        double sumTonCargoTruck = 0.0;
-        double sumTonCargoTrain = 0.0;
-        double sumTonCargo = 0.0;
+        double sumTonCargoMiniBus = 0;
+        double sumTonCargoTruck = 0;
+        double sumTonCargoTrain = 0;
+        double sumTonCargo = 0;
 
         for (int i = 1; i <= cargo; i++) {
             int cargoTons = Integer.parseInt(scanner.nextLine());

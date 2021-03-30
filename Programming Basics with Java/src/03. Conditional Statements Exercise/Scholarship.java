@@ -10,8 +10,8 @@ public class Scholarship {
         double averageGrade = Double.parseDouble(scanner.nextLine());
         double minimumWage = Double.parseDouble(scanner.nextLine());
 
-        double socialScholarship = 0.0;
-        double excellentScholarship = 0.0;
+        double socialScholarship = 0;
+        double excellentScholarship = 0;
 
         if (income <= minimumWage && averageGrade >= 4.5) {
             socialScholarship = Math.floor(minimumWage * 0.35);

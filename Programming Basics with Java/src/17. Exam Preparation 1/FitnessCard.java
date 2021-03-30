@@ -11,7 +11,7 @@ public class FitnessCard {
         int age = Integer.parseInt(scanner.nextLine());
         String sport = scanner.nextLine();
 
-        double price = 0.0;
+        double price = 0;
 
         switch (sport) {
             case "Gym":

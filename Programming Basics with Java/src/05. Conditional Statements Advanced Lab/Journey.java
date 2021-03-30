@@ -8,7 +8,7 @@ public class Journey {
 
         double budget = Double.parseDouble(scanner.nextLine());
         String season = scanner.nextLine();
-        double price = 0.0;
+        double price = 0;
 
         switch (season) {
             case "summer":

@@ -6,8 +6,8 @@ public class OddEvenPosition {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        double EvenSum = 0.0;
-        double OddSum = 0.0;
+        double EvenSum = 0;
+        double OddSum = 0;
         double OddMin = 1000000000.0;
         double OddMax = -1000000000.0;
         double EvenMin = 1000000000.0;

@@ -8,9 +8,9 @@ public class Exercise05 {
 
         int age = 0;
         int singleToyPrice = 5;
-        double moneyForToys = 0.0;
+        double moneyForToys = 0;
         int sweaterPrice = 15;
-        double moneyForSweaters = 0.0;
+        double moneyForSweaters = 0;
 
         int youngerThan16 = 0;
         int olderThan16 = 0;

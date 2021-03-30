@@ -10,8 +10,8 @@ public class Bikerace {
         int bikersSr = Integer.parseInt(scanner.nextLine());
         String route = scanner.nextLine();
 
-        double taxJunior = 0.0;
-        double taxSenior = 0.0;
+        double taxJunior = 0;
+        double taxSenior = 0;
         int bikersTotal = bikersJr + bikersSr;
 
         switch (route) {

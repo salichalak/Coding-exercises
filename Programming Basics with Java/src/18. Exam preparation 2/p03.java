@@ -9,7 +9,7 @@ public class p03 {
         String drink = scanner.nextLine();
         String sugarOption = scanner.nextLine();
         int count = Integer.parseInt(scanner.nextLine());
-        double price = 0.0;
+        double price = 0;
 
         switch (drink) {
             case "Espresso":

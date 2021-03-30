@@ -9,7 +9,7 @@ public class TradeCommissions {
         String town = scanner.nextLine();
         double sales = Double.parseDouble(scanner.nextLine());
 
-        double commission = 0.0;
+        double commission = 0;
         boolean invalidTown = false;
 
         switch (town) {

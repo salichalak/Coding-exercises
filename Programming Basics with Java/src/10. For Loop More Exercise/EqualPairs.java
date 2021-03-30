@@ -8,9 +8,9 @@ public class EqualPairs {
 
         int n = Integer.parseInt(scanner.nextLine());
 
-        double sum = 0.0;
-        double difference = 0.0;
-        double maxDifference = 0.0;
+        double sum = 0;
+        double difference = 0;
+        double maxDifference = 0;
 
         for (int i = 0; i < n; i++) {
             double num1 = Double.parseDouble(scanner.nextLine());

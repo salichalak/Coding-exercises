@@ -7,7 +7,7 @@ public class CinemaTicket {
         Scanner scanner = new Scanner(System.in);
 
         String day = scanner.nextLine();
-        double price = 0.0;
+        double price = 0;
 
         if ("Monday".equals(day) || "Tuesday".equals(day) || "Friday".equals(day)) {
             price = 12;

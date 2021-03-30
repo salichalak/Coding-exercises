@@ -9,7 +9,7 @@ public class SmallShop {
         String product = scanner.nextLine();
         String town = scanner.nextLine();
         double quantity = Double.parseDouble(scanner.nextLine());
-        double price = 0.0;
+        double price = 0;
 
         switch (town) {
             case "Sofia":

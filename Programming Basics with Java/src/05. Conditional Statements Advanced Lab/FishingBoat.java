@@ -9,7 +9,7 @@ public class FishingBoat {
         int budget = Integer.parseInt(scanner.nextLine());
         String season = scanner.nextLine();
         int fishers = Integer.parseInt(scanner.nextLine());
-        double boatRent = 0.0;
+        double boatRent = 0;
 
         switch (season) {
             case "Spring":

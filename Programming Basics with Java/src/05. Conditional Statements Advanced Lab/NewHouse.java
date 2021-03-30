@@ -9,7 +9,7 @@ public class NewHouse {
         String flower = scanner.nextLine();
         int count = Integer.parseInt(scanner.nextLine());
         int budget = Integer.parseInt(scanner.nextLine());
-        double price = 0.0;
+        double price = 0;
 
         switch (flower) {
             case "Roses":

@@ -10,8 +10,8 @@ public class FuelTank2 {
         double litres = Double.parseDouble(scanner.nextLine());
         String discountCard = scanner.nextLine();
 
-        double price = 0.0;
-        double discount = 0.0;
+        double price = 0;
+        double discount = 0;
 
         if ("Gas".equals(fuel)) {
             if ("Yes".equals(discountCard)) {

@@ -12,7 +12,7 @@ public class OperationsBetweenNumbers {
 
         int result = 0;
         String oddOrEven = "";
-        double dividedResult = 0.0;
+        double dividedResult = 0;
 
         switch (operator) {
             case "+":

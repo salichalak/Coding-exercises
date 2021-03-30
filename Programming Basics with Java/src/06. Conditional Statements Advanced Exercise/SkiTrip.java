@@ -11,7 +11,7 @@ public class SkiTrip {
         String opinion = scanner.nextLine();
 
         int nights = days - 1;
-        double price = 0.0;
+        double price = 0;
 
         switch (room) {
             case "room for one person":

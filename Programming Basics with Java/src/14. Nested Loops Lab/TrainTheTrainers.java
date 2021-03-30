@@ -8,9 +8,9 @@ public class TrainTheTrainers {
 
         int jury = Integer.parseInt(scanner.nextLine());
         String presentation = scanner.nextLine();
-        double sumCurrentGrades = 0.0;
-        double averageGrade = 0.0;
-        double sumTotalGrades = 0.0;
+        double sumCurrentGrades = 0;
+        double averageGrade = 0;
+        double sumTotalGrades = 0;
         int counter = 0;
 
         while (!presentation.equals("Finish")) {

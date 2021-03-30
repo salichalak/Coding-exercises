@@ -9,8 +9,8 @@ public class HotelRoom {
         String month = scanner.nextLine();
         int nights = Integer.parseInt(scanner.nextLine());
 
-        double studioPrice = 0.0;
-        double appPrice = 0.0;
+        double studioPrice = 0;
+        double appPrice = 0;
 
         switch (month) {
             case "May":

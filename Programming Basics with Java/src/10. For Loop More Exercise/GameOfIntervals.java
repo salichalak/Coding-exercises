@@ -14,7 +14,7 @@ public class GameOfIntervals {
         int from30to39 = 0;
         int from40to50 = 0;
         int invalid = 0;
-        double result = 0.0;
+        double result = 0;
 
         for (int i = 1; i <= moves; i++) {
             Double num = Double.parseDouble(scanner.nextLine());

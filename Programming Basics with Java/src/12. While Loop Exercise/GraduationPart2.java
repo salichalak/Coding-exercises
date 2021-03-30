@@ -10,7 +10,7 @@ public class GraduationPart2 {
 
         int failCounter = 0;
         int clazz = 0;
-        double totalGrades = 0.0;
+        double totalGrades = 0;
 
         while (clazz < 12) {
             double mark = Double.parseDouble(scanner.nextLine());

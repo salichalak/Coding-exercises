@@ -9,7 +9,7 @@ public class FruitShop {
         String fruit = scanner.nextLine();
         String day = scanner.nextLine();
         double quantity = Double.parseDouble(scanner.nextLine());
-        double price = 0.0;
+        double price = 0;
 
         if ("Monday".equals(day) || "Tuesday".equals(day) || "Wednesday".equals(day) || "Thursday".equals(day) || "Friday".equals(day)) {
             if ("banana".equals(fruit)) {

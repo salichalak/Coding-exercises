@@ -9,7 +9,7 @@ public class CinemaTicket {
         String projection = scanner.nextLine();
         int rows = Integer.parseInt(scanner.nextLine());
         int columns = Integer.parseInt(scanner.nextLine());
-        double price = 0.0;
+        double price = 0;
 
         switch (projection) {
             case "Premiere":

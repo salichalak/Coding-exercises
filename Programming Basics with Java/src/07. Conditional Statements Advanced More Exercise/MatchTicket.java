@@ -10,8 +10,8 @@ public class MatchTicket {
         String category = scanner.nextLine();
         int people = Integer.parseInt(scanner.nextLine());
 
-        double ticketPrice = 0.0;
-        double transportPrice = 0.0;
+        double ticketPrice = 0;
+        double transportPrice = 0;
 
         if (people >= 1 && people <= 4) {
             transportPrice = budget - budget * 0.25;

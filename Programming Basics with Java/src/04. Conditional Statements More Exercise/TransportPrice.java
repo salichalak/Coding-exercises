@@ -8,7 +8,7 @@ public class TransportPrice {
 
         int kilometers = Integer.parseInt(scanner.nextLine());
         String dayTime = scanner.nextLine();
-        double price = 0.0;
+        double price = 0;
 
         if (kilometers < 20 && kilometers > 0) {
             if ("day".equals(dayTime)) {

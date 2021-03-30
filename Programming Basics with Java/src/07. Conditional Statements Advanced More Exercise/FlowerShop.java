@@ -12,10 +12,10 @@ public class FlowerShop {
         String season = scanner.nextLine();
         String holiday = scanner.nextLine();
 
-        double chrysanthemumsPrice = 0.0;
-        double rosesPrice = 0.0;
-        double tulipsPrice = 0.0;
-        double bucketPrice = 0.0;
+        double chrysanthemumsPrice = 0;
+        double rosesPrice = 0;
+        double tulipsPrice = 0;
+        double bucketPrice = 0;
 
         switch (season) {
             case "Spring":

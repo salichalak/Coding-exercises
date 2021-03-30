@@ -10,8 +10,8 @@ public class FoodForPets {
         double food = Double.parseDouble(scanner.nextLine());
         int dogTotal = 0;
         int catTotal = 0;
-        double cookies = 0.0;
-        double cookiesSum = 0.0;
+        double cookies = 0;
+        double cookiesSum = 0;
 
         for (int i = 1; i <= days; i++) {
             int dogFood = Integer.parseInt(scanner.nextLine());

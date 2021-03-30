@@ -10,7 +10,7 @@ public class Travelling {
 
         while (!destination.equals("End")) {
             double budget = Double.parseDouble(scanner.nextLine());
-            double savedAmount = 0.0;
+            double savedAmount = 0;
 
             while (savedAmount < budget) {
                 savedAmount += Double.parseDouble(scanner.nextLine());

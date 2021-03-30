@@ -8,7 +8,7 @@ public class Grades {
 
         int students = Integer.parseInt(scanner.nextLine());
 
-        double averageGrade = 0.0;
+        double averageGrade = 0;
         int topStudent = 0;
         int between4and5 = 0;
         int between3and4 = 0;
