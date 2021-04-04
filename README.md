@@ -1,7 +1,7 @@
 # SoftUni - Java
 **Content:**  
-- Programming Basics with Java  
-- Programming Fundamentals with Java  
+- [Programming Basics with Java](https://github.com/salichalak/SoftUni/tree/main/Programming%20Basics)  
+- [Programming Fundamentals with Java](https://github.com/salichalak/SoftUni/tree/main/Programming%20Fundamentals)  
 - Java Advanced  
 - Java OOP  
 - Java DB and MySQL  
