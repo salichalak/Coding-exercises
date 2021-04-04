@@ -1,5 +1,4 @@
-# SoftUni - Java
-**Content:**  
+# Content ![20%](https://progress-bar.dev/20)
 - [Programming Basics with Java](https://github.com/salichalak/SoftUni/tree/main/Programming%20Basics)  
 - [Programming Fundamentals with Java](https://github.com/salichalak/SoftUni/tree/main/Programming%20Fundamentals)  
 - Java Advanced  
