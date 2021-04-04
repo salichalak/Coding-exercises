@@ -1,7 +1,7 @@
 # SoftUni - Java
 **Content:**  
 - Programming Basics with Java  
-- Java Fundamentals  
+- Programming Fundamentals with Java  
 - Java Advanced  
 - Java OOP  
 - Java DB and MySQL  
