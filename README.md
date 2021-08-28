@@ -1,4 +1,4 @@
-# Content ![40%](https://progress-bar.dev/20)
+# Content ![40%](https://progress-bar.dev/40)
 - [Programming Basics with Java](https://github.com/salichalak/SoftUni/tree/main/Programming%20Basics)  
 - [Programming Fundamentals with Java](https://github.com/salichalak/SoftUni/tree/main/Programming%20Fundamentals)  
 - [Java Advanced](https://github.com/salichalak/SoftUni/tree/main/Advanced)   
