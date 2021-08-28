@@ -1,7 +1,7 @@
-# Content ![20%](https://progress-bar.dev/20)
+# Content ![40%](https://progress-bar.dev/20)
 - [Programming Basics with Java](https://github.com/salichalak/SoftUni/tree/main/Programming%20Basics)  
 - [Programming Fundamentals with Java](https://github.com/salichalak/SoftUni/tree/main/Programming%20Fundamentals)  
-- Java Advanced  
+- [Java Advanced](https://github.com/salichalak/SoftUni/tree/main/Advanced)   
 - Java OOP  
 - Java DB and MySQL  
 - Java ORM and Spring Data  
