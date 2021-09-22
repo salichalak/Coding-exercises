@@ -3,7 +3,7 @@
 - [Programming Fundamentals with Java](https://github.com/salichalak/SoftUni/tree/main/Programming%20Fundamentals)  
 - [Java Advanced](https://github.com/salichalak/SoftUni/tree/main/Advanced)   
 - [Java OOP](https://github.com/salichalak/SoftUni/tree/main/OOP)  
-- [JavaScript Advanced](https://github.com/salichalak/SoftUni/tree/main/Advanced)  
+- [JavaScript Advanced](https://github.com/salichalak/SoftUni/tree/main/JS%20Advanced)  
 - JavaScript Applications  
 - Java DB and MySQL  
 - Java ORM and Spring Data  
