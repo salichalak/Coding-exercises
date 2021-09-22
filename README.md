@@ -2,7 +2,7 @@
 - [Programming Basics with Java](https://github.com/salichalak/SoftUni/tree/main/Programming%20Basics)  
 - [Programming Fundamentals with Java](https://github.com/salichalak/SoftUni/tree/main/Programming%20Fundamentals)  
 - [Java Advanced](https://github.com/salichalak/SoftUni/tree/main/Advanced)   
-- Java OOP  
+- [Java OOP](https://github.com/salichalak/SoftUni/tree/main/OOP)  
 - Java DB and MySQL  
 - Java ORM and Spring Data  
 - Java Spring Fundamentals  
