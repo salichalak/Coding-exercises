@@ -8,4 +8,4 @@ In this course, you will cover all the basic concepts, tools, and functions used
 The course goes through the use of Objects and Classes in Java. You will learn how to use Associative Arrays and Lambda Expressions. 
 We will cover the processing of larger text inputs, and introduce regular expressions and how they are used to find patterns in a string.
 
-![Certificate](https://github.com/salichalak/SoftUni/blob/main/Programming%20Fundamentals/Programming%20Fundamentals%20with%20Java%20-%20January%202021%20-%20Certificate.jpeg)
+![Certificate](https://github.com/salichalak/SoftUni/blob/main/Programming%20Fundamentals%20with%20Java/Programming%20Fundamentals%20with%20Java%20-%20January%202021%20-%20Certificate.jpeg)
