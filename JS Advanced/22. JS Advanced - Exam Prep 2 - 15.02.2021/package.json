@@ -1,0 +1,8 @@
+{
+  "name": "examprep",
+  "version": "1.0.0",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.1.3"
+  }
+}
