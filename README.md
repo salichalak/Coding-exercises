@@ -1,10 +1,10 @@
-# Courses ![50%](https://progress-bar.dev/50)
+# Courses ![60%](https://progress-bar.dev/60)
 - [Programming Basics with Java](https://github.com/salichalak/SoftUni/tree/main/Programming%20Basics%20with%20Java)  
 - [Programming Fundamentals with Java](https://github.com/salichalak/SoftUni/tree/main/Programming%20Fundamentals%20with%20Java)  
 - [Java Advanced](https://github.com/salichalak/SoftUni/tree/main/Java%20Advanced)   
 - [Java OOP](https://github.com/salichalak/SoftUni/tree/main/Java%20OOP)  
 - [JavaScript Advanced](https://github.com/salichalak/SoftUni/tree/main/JS%20Advanced)  
-- JavaScript Applications  
+- [JavaScript Applications](https://github.com/salichalak/SoftUni/tree/main/JS%20Applications)  
 - Java DB and MySQL  
 - Java ORM and Spring Data  
 - Java Spring Fundamentals  
