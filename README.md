@@ -5,7 +5,7 @@
 - [Java OOP](https://github.com/salichalak/SoftUni/tree/main/Java%20OOP)  
 - [JavaScript Advanced](https://github.com/salichalak/SoftUni/tree/main/JS%20Advanced)  
 - [JavaScript Applications](https://github.com/salichalak/SoftUni/tree/main/JS%20Applications)  
-- Java DB and MySQL  
+- [Java DB and MySQL](https://github.com/salichalak/SoftUni/tree/main/MySQL)  
 - Java ORM and Spring Data  
 - Java Spring Fundamentals  
 - Java Spring Advanced  
