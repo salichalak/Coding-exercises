@@ -1,4 +1,4 @@
-# Courses ![70%](https://progress-bar.dev/70)
+# Courses ![80%](https://progress-bar.dev/80)
 - [Programming Basics with Java](https://github.com/salichalak/SoftUni/tree/main/Programming%20Basics%20with%20Java)  
 - [Programming Fundamentals with Java](https://github.com/salichalak/SoftUni/tree/main/Programming%20Fundamentals%20with%20Java)  
 - [Java Advanced](https://github.com/salichalak/SoftUni/tree/main/Java%20Advanced)   
